@@ -1,3 +1,60 @@
 body {
-    background-color: aliceblue;
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+}
+
+.headshot {
+    width: 150px;
+    border-radius: 100%;
+    margin: 10px auto;
+    display: block;
+    object-fit: cover;
+    
+}
+
+p {
+    margin-top: -10px;
+    color: gray;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.btn-primary {
+    background-color: black;
+    width: 85%;
+    margin: 0 auto;
+    padding: 16px 0;
+}
+
+#twitter {
+    width: 40px;
+    height: 40px;
+    margin-right: 4px;
+}
+
+#facebook {
+    height: 38px;
+    width: 40px;
+    margin-bottom: 5px;;
+}
+
+#linkedin {
+    height: 40px;
+    width: 40px;
+    margin-left: 5px;
+}
+
+#instagram {
+    width: 65px;
+    height: 80%;
+    margin-right: -8px;
+}
+
+.links {
+    margin-top: 10px;
 }
